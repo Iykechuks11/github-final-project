@@ -6,7 +6,7 @@
 
    # Author: https://github.com/Iykechuks11/
    # Additional Authors:
-   # <your GitHub username>
+   # https://github.com/Iykechuks11/
 
    # Input:
    # p, principal amount
